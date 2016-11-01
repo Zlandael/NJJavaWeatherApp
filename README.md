@@ -1,2 +1,2 @@
 # NJJavaWeatherApp
-A simple Java weather app providing city search, temperature, and condition in New Jersey.
+A simple Java weather app providing city search, current conditions, and temperature in New Jersey.
